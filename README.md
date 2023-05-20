@@ -7,7 +7,7 @@ Idlix_KW is a multiplatform application project for dicoding academies final ass
 
 ## Preview
 <img width="100%" alt="MovieDetail_2" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/5debd06c-b9c5-4594-93bd-c331dd5435a6">
-<img width="25%" alt="HomeSearch_1" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/c9e06b6a-fb3f-4aa7-97a6-98d2fc30a596">
-<img width="35%" alt="HomeSearch_2" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/e2da4d47-081b-47b6-ac05-9083a9628ac7">
-<img width="40%" alt="HomeSearch_3" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/f8cc24ce-c539-43d1-ad98-b90e81637e1c">
+<img width="20%" alt="HomeSearch_1" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/c9e06b6a-fb3f-4aa7-97a6-98d2fc30a596">
+<img width="30%" alt="HomeSearch_2" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/e2da4d47-081b-47b6-ac05-9083a9628ac7">
+<img width="50%" alt="HomeSearch_3" src="https://github.com/AntonioCR11/Idlix_KW/assets/99940538/f8cc24ce-c539-43d1-ad98-b90e81637e1c">
 
